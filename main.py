@@ -29,7 +29,7 @@ def knows_card():
     words_dictionary.remove(random_word)
     print(len(words_dictionary))
     data = pandas.DataFrame(words_dictionary)
-    data.to_csv("data_stock/words_to_learn.csv", index=False)
+    data.to_csv("data/words_to_learn.csv", index=False)
 
     pick_a_word()
 
