@@ -12,8 +12,10 @@ Learn a new language (Spanish) by guessing their translations, viewing the corre
 - The program extracts words from words_to_learn.csv in successive runs.
 
 ## Result
-Spanish Word 
+Spanish Word
+
 ![alt text](examples/test1.PNG)
 
 English Translation
+
 ![alt text](examples/test2.PNG)
