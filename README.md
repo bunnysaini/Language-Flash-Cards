@@ -13,7 +13,7 @@ Learn a new language (Spanish) by guessing their translations, viewing the corre
 
 ## Result
 Spanish Word 
-![alt text](test1.PNG)
+![alt text](examples/test1.PNG)
 
 English Translation
-![alt text](test2.PNG)
+![alt text](examples/test2.PNG)
